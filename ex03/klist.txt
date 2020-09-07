@@ -1,0 +1,7 @@
+Kerberos tickets
+
+Credentials cache: API:710EEB9E-F4EC-40A2-95E2-2301A2402C6E
+        Principal: carrowro@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Sep  7 20:35:04 2020  Sep  8 06:34:57 2020  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
